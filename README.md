@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there my names is Bruno👋
+
+.I'm studying at Alura
+.I'm developing in the JavaScripit language
+.I use this space to organize and share my projects developed.
+
+YOU CAN FIND CONTACT ME 
+00001100495162sp@al.educacao.sp.gov.br
+
 
 <!--
 **Bruno53267/Bruno53267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
